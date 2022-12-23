@@ -1,11 +1,11 @@
 // import images
-import Hero_person from "../src/assets/images/Hero/person.png";
+import Hero_person from "../src/assets/images/Hero/7AB291E5-A2C3-411F-97E1-A5EB2BD48767 (1).png";
 
-import figma from "../src/assets/images/Skills/figma.png";
+import figma from "../src/assets/images/Skills/java.png";
 import sketch from "../src/assets/images/Skills/sketch.png";
-import ps from "../src/assets/images/Skills/ps.png";
+import ps from "../src/assets/images/Skills/spring-boot.png";
 import reactjs from "../src/assets/images/Skills/react.png";
-import nodejs from "../src/assets/images/Skills/node.png";
+import nodejs from "../src/assets/images/Skills/angular.png";
 import python from "../src/assets/images/Skills/python.png";
 
 import services_logo1 from "../src/assets/images/Services/logo1.png";
@@ -59,8 +59,8 @@ export const content = {
   ],
   hero: {
     title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    firstName: "Zamhar",
+    LastName: "Raa'd",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
@@ -69,7 +69,7 @@ export const content = {
         text: "Years of Experinse in Web development",
       },
       {
-        count: "20+",
+        count: "15+",
         text: "Projects Worked in my career",
       },
     ],
@@ -79,17 +79,17 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Figma",
+        name: "Java",
         para: "Lorem ipsum text  dummy",
         logo: figma,
       },
       {
-        name: "Node js",
+        name: "Angular js",
         para: "Lorem ipsum text  dummy",
         logo: nodejs,
       },
       {
-        name: "Adobe Photoshop",
+        name: "Spring Boot",
         para: "Lorem ipsum text  dummy",
         logo: ps,
       },
@@ -99,12 +99,12 @@ export const content = {
         logo: reactjs,
       },
       {
-        name: "Sketch",
+        name: "Css / Bootstrap",
         para: "Lorem ipsum text  dummy",
         logo: sketch,
       },
       {
-        name: "Python",
+        name: "JavaScript / jQuery / Ajex",
         para: "Lorem ipsum text  dummy",
         logo: python,
       },
@@ -194,19 +194,19 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "mhmdzamhar@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:mhmdzamhar@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+94 7694 32266",
         icon: MdCall,
         link: "https://wa.me/1234567890",
       },
       {
-        text: "codeaprogram",
+        text: "zamharrad",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/zamharrad/",
       },
     ],
   },
